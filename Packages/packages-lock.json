@@ -13,7 +13,11 @@
       "dependencies": {}
     },
     "com.unity.ads": {
+<<<<<<< HEAD
       "version": "3.7.1",
+=======
+      "version": "3.4.7",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -22,7 +26,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.analytics": {
+<<<<<<< HEAD
       "version": "3.5.3",
+=======
+      "version": "3.3.5",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -31,6 +39,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "1.5.7",
       "depth": 0,
       "source": "registry",
@@ -41,13 +50,27 @@
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
+=======
+      "version": "1.2.16",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.ext.nunit": {
+      "version": "1.0.0",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
+<<<<<<< HEAD
       "version": "2.0.7",
+=======
+      "version": "1.1.4",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -55,6 +78,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.ide.visualstudio": {
       "version": "2.0.9",
       "depth": 0,
@@ -66,11 +90,16 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.3",
+=======
+    "com.unity.ide.vscode": {
+      "version": "1.2.1",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.newtonsoft-json": {
       "version": "2.0.0",
       "depth": 1,
@@ -97,13 +126,41 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6",
+=======
+    "com.unity.multiplayer-hlapi": {
+      "version": "1.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "nuget.mono-cecil": "0.1.6-preview"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.purchasing": {
+      "version": "2.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.14",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.0",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
+<<<<<<< HEAD
       "version": "3.0.6",
+=======
+      "version": "2.0.1",
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -112,6 +169,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
+<<<<<<< HEAD
       "version": "1.4.8",
       "depth": 0,
       "source": "registry",
@@ -121,6 +179,12 @@
         "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
+=======
+      "version": "1.2.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "url": "https://packages.unity.com"
     },
     "com.unity.ugui": {
@@ -128,6 +192,7 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
@@ -140,6 +205,37 @@
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.xr": "1.0.0"
       },
+=======
+        "com.unity.modules.ui": "1.0.0"
+      }
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.oculus.standalone": {
+      "version": "2.38.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.openvr.standalone": {
+      "version": "2.0.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "nuget.mono-cecil": {
+      "version": "0.1.6-preview",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
       "url": "https://packages.unity.com"
     },
     "com.unity.modules.ai": {
@@ -275,6 +371,7 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
@@ -287,6 +384,8 @@
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
+=======
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       }
