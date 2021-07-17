@@ -1,2 +1,17 @@
+<<<<<<< HEAD
 m_EditorVersion: 2019.4.4f1
 m_EditorVersionWithRevision: 2019.4.4f1 (1f1dac67805b)
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+m_EditorVersion: 2020.3.14f1
+m_EditorVersionWithRevision: 2020.3.14f1 (d0d1bb862f9d)
+=======
+m_EditorVersion: 2019.4.4f1
+m_EditorVersionWithRevision: 2019.4.4f1 (1f1dac67805b)
+>>>>>>> 1d90cd916f0e1ebd84df3a1362d0ad9ab56a696d
+=======
+m_EditorVersion: 2019.4.28f1
+m_EditorVersionWithRevision: 2019.4.28f1 (1381962e9d08)
+>>>>>>> e58d7d4539d48db16fd794b380065fb60810949e
+>>>>>>> 640f5b6af5fc6d1f7fd3ab76be0d6146e15125a2
